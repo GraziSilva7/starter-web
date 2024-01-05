@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## copyrith 
+## COPYRIGHT
 
 ### TESTE
 Vamos testar o comando diff
