@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Graziela Silva <role> Desenvolvedora <twitter> Agora é X
 
 # THANKS
 
